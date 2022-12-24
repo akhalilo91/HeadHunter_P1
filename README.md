@@ -1,5 +1,4 @@
 # Project - 1: Анализ резюме из HeadHunter
-(https://img.shields.io/badge/Project-1-critical)
 ![PyPI - Python Version](https://img.shields.io/badge/Python%20-%203.8.5-blue)
 
 
