@@ -40,4 +40,4 @@
 
 - [Jupyter-ноутбуке](https://github.com/akhalilo91/HeadHunter_P1/blob/main/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Project%201.ipynb)  - код показывающий ответы на все вопросы в заданиях.
 - [Plotly_html](https://github.com/akhalilo91/HeadHunter_P1/tree/main/Plotly_html) - папка, которая содержит все графики созданные с помощью ```Plotly```.
-- [requirements.txt](https://github.com/akhalilo91/SF_HW1/blob/main/requirements.txt) - фиксирует версии библиотеки, которые использовались в проекте.
+- [requirements.txt](https://github.com/akhalilo91/HeadHunter_P1/blob/main/requirements.txt) - фиксирует версии библиотеки, которые использовались в проекте.
